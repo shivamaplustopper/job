@@ -1,0 +1,6 @@
+Django==2.2.7
+mysqlclient==1.4.6
+pipenv==2018.11.26
+sqlparse==0.3.0
+virtualenv==16.7.8
+
